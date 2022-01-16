@@ -1,6 +1,6 @@
-# Diploma in Computer Engineering @ [GPPune](https://gppune.ac.in/) 
+# Diploma in Computer Engineering 
 
-A Place to store code/docs for Project/Practical done by [@yashppawar](https://www.github.com/yashppawar) throught the course of _Diploma in Computer Engineering_.
+A Place to store code/docs for Project/Practical done by [@yashppawar](https://www.github.com/yashppawar) throught the course of _Diploma in Computer Engineering_ @ [GPPune](https://gppune.ac.in/).
 
 ## Course Table
 | Sr.no | Course Name   | Course Code                                    | Micro Project                                                |
